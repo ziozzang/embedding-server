@@ -1,6 +1,6 @@
 # embedding-server
 
-Title: Creating an OpenAI Embedding API Compatible Server
+Creating an OpenAI Embedding API Compatible Server using Open-LLM model.
 
 Purpose:
 - For embedding models to generate well-separated embedding vectors, they need to be trained with a good tokenizer and a large amount of data.

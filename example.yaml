@@ -1,0 +1,8 @@
+slices:
+  - sources:
+    - model: models/Meta-Llama-3-8B-Instruct/
+      layer_range: [0, 0]
+
+merge_method: passthrough
+
+parameters: {}
